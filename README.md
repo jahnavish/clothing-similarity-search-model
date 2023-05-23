@@ -19,7 +19,7 @@ The similarity between the vectors is then computed using cosine similarity. A f
 
 Open a Jupyter Notebook on your local machine
 
-Run shell commands by adding ! as a prefix before your command
+Run shell commands by adding ! as the prefix before your command
 
 `!git clone https://github.com/jahnavish/clothing-similarity-search-model.git`
 
